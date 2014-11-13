@@ -1,0 +1,4 @@
+mining.bitcoin.cz
+=================
+
+miner
